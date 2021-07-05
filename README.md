@@ -11,3 +11,7 @@ Abhigyan Dwivedi
 Kshitij Upadhyay
 Manu Priyam Mittal
 Jayant Lingamaneni
+
+!(https://github.com/Kshi15j/Project-Ride-It/blob/main/dashboard.jpg)
+!(https://github.com/Kshi15j/Project-Ride-It/blob/main/book.jpg)
+!(https://github.com/Kshi15j/Project-Ride-It/blob/main/transaction.jpg)
